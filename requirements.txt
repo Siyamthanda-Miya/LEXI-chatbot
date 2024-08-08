@@ -1,0 +1,6 @@
+ChatterBot==1.0.4
+chatterbot-corpus==1.2.0
+pyttsx3==2.90
+spacy==2.3.5
+en_core_web_sm==2.3.1
+SQLAlchemy==1.2.19
