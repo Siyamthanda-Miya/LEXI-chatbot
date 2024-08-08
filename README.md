@@ -14,11 +14,11 @@ To set up the project, you'll need to install the necessary Python libraries. Yo
 
 ```bash
 pip install pyttsx3
-pip install chatterbot
-pip install chatterbot_corpus
-pip install spacy
-pip install sqlalchemy
-python -m spacy download en_core_web_sm
+pip install chatterbot==1.0.4
+pip install chatterbot_corpus==1.2.0
+pip install spacy==2.3.5
+pip install sqlalchemy==1.2.19
+pip install en_core_web_sm==2.3.1
 ```
 
 ## Usage
