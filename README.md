@@ -77,6 +77,18 @@ This project requires the following Python libraries:
   ```bash
   python -m spacy download en_core_web_sm
   ```
+-  If you still encounter an error loading the Spacy model, run the following command:
+
+  ```bash
+  py -m pip install spacy==2.3.5 --only-binary :all:
+  ```
+
+-  If  encounter an error installing any of the dependencies, run the following command:
+
+  ```bash
+  py -m pip install --upgrade pip setuptools wheel
+  ```
+
 
 - **No Speech Output:** If Lexi does not speak, verify that `pyttsx3` is installed correctly and the appropriate voice engine is set.
 
