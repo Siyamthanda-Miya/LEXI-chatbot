@@ -25,7 +25,10 @@ Before you begin, ensure you have met the following requirements:
 
 Follow these steps to set up the project:
 
-1. Clone the repository:
+
+   ```
+
+2. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/LEXI-chatbot.git
    cd LEXI-chatbot
