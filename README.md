@@ -17,7 +17,7 @@ Lexi is an interactive chatbot built with Python 3.8 using `ChatterBot`, `Spacy`
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.8
+- Python 3.8 or greater
 - pip (Python package installer)
 - (Any other prerequisites, like specific OS requirements)
 
