@@ -7,7 +7,7 @@ README.md
 
 Lexi is an interactive chatbot built with Python 3.8 using `ChatterBot`, `Spacy`, and `Festival` for natural language processing and text-to-speech. It engages users in conversation and provides time-based greetings. The project can be run locally and is easily customizable with additional logic adapters or training data. Python 3.8 is recommended for optimal compatibility with `ChatterBot`.
 
-Features
+##Features
 - **Text-to-Speech (TTS):** Lexi uses the `Festival` library to convert text responses to speech, making the interaction more engaging.
 - **Natural Language Processing (NLP):** Lexi utilizes the `Spacy` library to process text input and generate responses.
 - **Conversational Logic:** Lexi is powered by `ChatterBot`, which is trained on the English language corpus to provide intelligent responses.
@@ -24,8 +24,6 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 Follow these steps to set up the project:
-
-
    ```
 
 2. Clone the repository:
