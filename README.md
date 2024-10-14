@@ -1,6 +1,6 @@
 # Lexi - Linguistic Experience Interactive Bot
 
-Lexi is an interactive chatbot built with Python 3.8 using `ChatterBot`, `Spacy`, and `Festival` for natural language processing and text-to-speech. It engages users in conversation and provides time-based greetings. The project can be run locally and is easily customizable with additional logic adapters or training data. Python 3.8 is recommended for optimal compatibility with `ChatterBot`.
+Lexi is an interactive chatbot built with Python 3.8 using `ChatterBot`, `Spacy`, and `Festival` for natural language processing and text-to-speech. It engages users in conversation and provides time-based greetings. The project can be run locally and is easily customizable with additional logic adapters or training data. Python 3.8 or higher is recommended for optimal compatibility with `ChatterBot`.
 
 ## Features
 
