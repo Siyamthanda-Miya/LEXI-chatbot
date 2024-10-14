@@ -19,8 +19,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-Follow these steps to set up the project:
-
 2. Clone the repository:
    ```bash
    git clone https://github.com/Siyamthanda-Miya/LEXI-chatbot
