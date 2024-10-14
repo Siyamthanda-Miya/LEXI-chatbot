@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-2. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/Siyamthanda-Miya/LEXI-chatbot
    cd LEXI-chatbot
