@@ -2,15 +2,7 @@
 <img src="https://static.scarf.sh/a.png?x-pxid=cf317fe7-2188-4721-bc01-124bb5d5dbb2" />
 
 ## <img src="https://pouch.jumpshare.com/preview/CtgvS6wFP6j4ZPnhZZ6ZEZ_tQ9tfDFbC3ySoutHskWc2emfAkK7AyhAgQhSbQoN4nyCh9UVrN4auA0oLb5hzv23m_opDwU0YNFfoC4Fvd0g" height="56"/>
-
-
-**🐸TTS is a library for advanced Text-to-Speech generation.**
-
-🚀 Pretrained models in +1100 languages.
-
-🛠️ Tools for training new models and fine-tuning existing models in any language.
-
-📚 Utilities for dataset analysis and curation.
+</div>
 ______________________________________________________________________
 
 
