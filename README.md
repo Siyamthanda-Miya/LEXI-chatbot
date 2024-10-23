@@ -1,6 +1,6 @@
 <div align="center">
 
-## <img src="https://pouch.jumpshare.com/preview/CtgvS6wFP6j4ZPnhZZ6ZEZ_tQ9tfDFbC3ySoutHskWc2emfAkK7AyhAgQhSbQoN4nyCh9UVrN4auA0oLb5hzv23m_opDwU0YNFfoC4Fvd0g" height="56"/>
+## <img src="https://pouch.jumpshare.com/preview/CtgvS6wFP6j4ZPnhZZ6ZEZ_tQ9tfDFbC3ySoutHskWc2emfAkK7AyhAgQhSbQoN4nyCh9UVrN4auA0oLb5hzv23m_opDwU0YNFfoC4Fvd0g" height="140"/>
 
 
 # Lexi - Linguistic Experience Interactive Bot
